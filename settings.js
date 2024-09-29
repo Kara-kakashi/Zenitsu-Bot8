@@ -10,8 +10,8 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
 global.botname = 'Zenitsu-Bot8' //ur bot name
-global.ownernumber = '917029257330' //ur owner number
-global.ownername = '🦄Dream Guy Deepak' //ur owner name
+global.ownernumber = '221706691940' //ur owner number
+global.ownername = '꧁༆~𝑲𝑨𝑹𝑨~𝑲𝑨𝑲𝑨𝑺𝑯𝑰༆꧂' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🪀'
